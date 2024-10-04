@@ -1,1 +1,34 @@
 
+# RTL 100 Days Code
+
+Welcome to the **RTL 100 Days Code** project! This repository contains a collection of RTL designs, exercises, and projects developed over a span of 100 days to enhance skills in hardware description languages (HDLs) and digital design principles.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+This project aims to provide a structured approach to learning RTL design by completing daily coding challenges, projects, and exercises. Each day features a new concept or project, ranging from basic circuits to more complex designs.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- A compatible simulator (e.g., ModelSim, Vivado, or any RTL simulation tool)
+- Hardware description language (HDL) knowledge (Verilog/VHDL)
+- Basic understanding of digital circuits
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/rtl-100-days-code.git
+cd rtl-100-days-code
